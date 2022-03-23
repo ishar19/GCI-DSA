@@ -6,9 +6,7 @@ using namespace std;
    the strings having space pattern.
    i and j are indices in 'str[]' and
    'buff[]' respectively */
-void printPatternUtil(const char str[],
-                      char buff[], int i,
-                      int j, int n)
+void printPatternUtil(const char str[],char buff[], int i,int j, int n)
 {
     if (i == n)
     {

@@ -1,3 +1,3 @@
 # GCI-DSA
-I had previously done milestone 1 type questions before GCI orientation so instead studied time and space complexity.
+Milestones from the official GCI-DSA roadmap for C++ Data Structure and Algorithms.
 
